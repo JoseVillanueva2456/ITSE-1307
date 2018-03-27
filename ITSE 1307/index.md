@@ -11,6 +11,7 @@
 * [Project](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/Project)
 * [PythagoreanTheorem](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/PythagoreanTheorem)
 * [Reorder](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/Reorder)
+* [ShoppingCart](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/ShoppingCart)
 * [SquareFootage](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/SquareFootage)
 * [StringLength](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/StringLength)
 * [VolumeCalculator](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/VolumeCalculator)
