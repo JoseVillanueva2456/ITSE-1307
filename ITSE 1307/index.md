@@ -14,4 +14,5 @@
 * [ShoppingCart](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/ShoppingCart)
 * [SquareFootage](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/SquareFootage)
 * [StringLength](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/StringLength)
+* [TimeConversion](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/TimeConversion)
 * [VolumeCalculator](https://github.com/JoseVillanueva2456/ITSE-1307/tree/master/ITSE%201307/VolumeCalculator)
