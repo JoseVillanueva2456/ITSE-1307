@@ -1,0 +1,3 @@
+﻿  MaoCardGame.cpp
+c:\users\josev\desktop\college\itse1301\maocardgame\maocardgame\maocardgame.cpp(540): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MaoCardGame.vcxproj -> C:\Users\josev\Desktop\College\ITSE1301\MaoCardGame\x64\Debug\MaoCardGame.exe
